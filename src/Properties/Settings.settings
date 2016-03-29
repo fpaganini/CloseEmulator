@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="br.com.pgnSoft.Games.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ListenController1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ListenController2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ListenController3" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ListenController4" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OpenKodi" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CloseEmulators" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="KodiKeys" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ButtonBack;ButtonStart;LeftTrigger;RightTrigger</Value>
+    </Setting>
+    <Setting Name="EmulatorKeys" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ButtonBack;ButtonStart;LeftShoulder;RightShoulder</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

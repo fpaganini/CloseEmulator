@@ -1,0 +1,15 @@
+D:\Workspace\FechaEmulador\src\bin\Debug\CloseEmulator.exe.config
+D:\Workspace\FechaEmulador\src\bin\Debug\CloseEmulator.exe.manifest
+D:\Workspace\FechaEmulador\src\bin\Debug\CloseEmulator.application
+D:\Workspace\FechaEmulador\src\bin\Debug\CloseEmulator.exe
+D:\Workspace\FechaEmulador\src\bin\Debug\CloseEmulator.pdb
+D:\Workspace\FechaEmulador\src\bin\Debug\J2i.Net.XInputWrapper.dll
+D:\Workspace\FechaEmulador\src\bin\Debug\J2i.Net.XInputWrapper.pdb
+D:\Workspace\FechaEmulador\src\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\Workspace\FechaEmulador\src\obj\Debug\br.com.pgnSoft.Games.Properties.Resources.resources
+D:\Workspace\FechaEmulador\src\obj\Debug\br.com.pgnSoft.Games.XBOX360_Controller.resources
+D:\Workspace\FechaEmulador\src\obj\Debug\FechaEmulador.csproj.GenerateResource.Cache
+D:\Workspace\FechaEmulador\src\obj\Debug\CloseEmulator.exe.manifest
+D:\Workspace\FechaEmulador\src\obj\Debug\CloseEmulator.application
+D:\Workspace\FechaEmulador\src\obj\Debug\CloseEmulator.exe
+D:\Workspace\FechaEmulador\src\obj\Debug\CloseEmulator.pdb

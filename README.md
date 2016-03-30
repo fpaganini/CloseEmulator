@@ -35,22 +35,68 @@ For install this tool, you need .net 4 and DirectX redist 9.0C
   <li>
     <b>Atari</b>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li><li></li>
+      <li>Good2600</li>
+      <li>ProSystem</li>
+      <li>Stella</li>
+    </ul>
+  </li>
+  <li>
+    <b>Dreamcast</b>
+    <ul>
+      <li>Chankast</li>
+      <li>demul</li>
+      <li>nullDC</li>
+    </ul>
+  </li>
+  <li>
+    <b>Genesis / Megadrive / Genesis 32X / Sega CD / Master System</b>
+    <ul>
+      <li>Fusion</li>
+      <li>gens</li>
+      <li>gens+</li>
+      <li>Regen</li>
+    </ul>
+  </li>
+  <li>
+    <b>NES / Famicom</b>
+    <ul>
+      <li>fceux</li>
+    </ul>
+  </li>
+  <li>
+    <b>Nintendo 64 / Ultra 64</b>
+    <ul>
+      <li>Project64</li>
+    </ul>
+  </li>
+   <li>
+    <b>Playstation</b>
+    <ul>
+      <li>AdriILE</li>
+      <li>AdriRUN</li>
+      <li>ePSXe</li>
+      <li>pcsx</li>
+      <li>psxfin</li>
+      <li>PSXeven</li>
+    </ul>
+  </li>
+  <li>
+    <b>Playstation 2</b>
+    <ul>
+      <li>pcsx2</li>
+    </ul>
+  </li>
+  <li>
+    <b>Super Nintendo Entertaiment System (SNES) / Super Famicom</b>
+    <ul>
+      <li>snes9x</li>
     </ul>
   </li>
  </ul>
 </li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Auto detect Connected and desconected controllers</li>
+<li>Display what key is pressed for help to localize the respective button into configuration</li>
+<li>Edit keys schema for open Kody and Close emulators</li>
 </ul>
 
 ## History

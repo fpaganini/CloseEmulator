@@ -94,9 +94,9 @@ For install this tool, you need .net 4 and DirectX redist 9.0C
   </li>
  </ul>
 </li>
-<li>Auto detect Connected and disconected controllers</li>
+<li>Auto detect Connected and disconnected controllers</li>
 <li>Display what key is pressed for help to localize the respective button into configuration</li>
-<li>Edit keys schema for open Kody and Close emulators</li>
+<li>Edit keys schema for open Kodi and Close emulators</li>
 </ul>
 
 ## History

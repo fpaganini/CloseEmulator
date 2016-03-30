@@ -3,7 +3,7 @@
 Using your XBOX 360 Controller to close your programs and emulators without get out your bed or chair. Sounds good for you? download it and enjoy. And if you want, develop your improvements and commit it. ;)
 
 </br>
-<img href='http://www.pgnsoft.com.br/images/CloseEmulatorPrint.png'/>
+<img src='http://www.pgnsoft.com.br/images/CloseEmulatorPrint.png'/>
 
 ## Installation
 

@@ -11,7 +11,7 @@ Download the last build in this page, run setup.exe, click in install and enjoy.
 
 ### Installation Requirements
 
-For install this tool, you need .net 4 and DirectX redist 9.0C
+For install Close Emulator, you need .net 4 and DirectX redist 9.0C
 
 ## Contributing
 

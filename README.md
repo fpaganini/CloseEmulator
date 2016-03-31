@@ -97,6 +97,7 @@ For install Close Emulator, you need .net 4 and DirectX redist 9.0C
 <li>Auto detect Connected and disconnected controllers</li>
 <li>Display what key is pressed for help to localize the respective button into configuration</li>
 <li>Edit keys schema for open Kodi and Close emulators</li>
+<li>Close emulator with gamepad</li>
 </ul>
 
 ## History
